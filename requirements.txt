@@ -1,0 +1,11 @@
+PyPDF2
+streamlit
+python-docx
+tempfile
+langchain-text-splitters
+langchain-google-genai
+python-dotenv
+nltk
+scikit-learn
+numpy
+faiss-gpu
